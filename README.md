@@ -2,19 +2,29 @@
 
 KPI's: 
 **User Engagement KPIs**
+
 **Users in UserDetails:** 10 unique users (U001 to U010).
+
 **Users in CookingSessions:** 7 unique users (U001, U002, U003, U004, U005, U006, U007, U008).
+
 **Users in OrderDetails:** 10 unique users (U001 to U010).
+
 **Total Active Users:** 10 unique users, since all users are engaged in either cooking sessions or orders.
 
 **Retention Rate:** 50%
+
 **Average Rating:** 4.5
+
 **Average Session Duration:** 32.5 minutes
 
 **Order Trends KPIs**
+
 **Order Completion Rate:** 87.5%
+
 **Order Cancellation Rate:** 12.5%
+
 **Average Order Value (AOV):** 11.3 USD
+
 **Highest Revenue Meal Type:** Dinner, generating 80.5 USD.
 
 
