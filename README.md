@@ -94,3 +94,7 @@ Users who spend more time cooking tend to rate their sessions higher, so offerin
 Address Order Cancellations:
 
 The analysis of canceled orders can be used to identify potential pain points in the ordering process. Understanding whether the issue lies with dish availability, session timing, or user expectations can help minimize cancellations.
+
+
+![Screenshot 2024-12-23 204249](https://github.com/user-attachments/assets/c2d99761-916c-49a9-954d-0f0205f86086)
+
